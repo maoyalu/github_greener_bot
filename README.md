@@ -51,7 +51,7 @@ This is a experiment project that helps me contribute rubbish and keeps my GitHu
 - [x] Function script
 - [x] Trigger
 - [ ] Stop if the user is active on that day
-- [ ] Generate random number of commits
+- [x] Generate random number of commits
 - [ ] Issues
 - [ ] Pull requests
 - [ ] Code review
